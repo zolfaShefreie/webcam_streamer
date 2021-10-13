@@ -1,2 +1,2 @@
 # webcam_streamer
-a simple webcam streamer using by gstearmer in python 
+a simple webcam streamer using gstearmer in python 
